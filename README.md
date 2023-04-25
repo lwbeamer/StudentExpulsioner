@@ -1,0 +1,2 @@
+# StudentExpulsioner
+Отчислятор студентов
